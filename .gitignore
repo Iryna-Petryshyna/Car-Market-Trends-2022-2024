@@ -1,0 +1,7 @@
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store

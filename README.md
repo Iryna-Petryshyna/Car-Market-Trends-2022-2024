@@ -43,4 +43,4 @@
 
 ---
 
-🔗 [LinkedIn профіль](https://www.linkedin.com/in/iryna-petryshyna-191b08338/)
+🔗 [LinkedIn Ірина Петришина](https://www.linkedin.com/in/iryna-petryshyna-191b08338/)

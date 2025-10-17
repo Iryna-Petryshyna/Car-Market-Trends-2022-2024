@@ -44,10 +44,10 @@
 ---
 
 ## 👩‍💻 Автор
-**[Iryna Petryshyna]
+Iryna Petryshyna 
+🔗 [LinkedIn Ірина Петришина](https://www.linkedin.com/in/iryna-petryshyna-191b08338/)
 Аналітик даних 
 📊 Створено у 2025 році як навчально-дослідницький проєкт з аналізу відкритих даних автомобільного ринку України.
-
 ---
 
-🔗 [LinkedIn Ірина Петришина](https://www.linkedin.com/in/iryna-petryshyna-191b08338/)
+
